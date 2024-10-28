@@ -6,7 +6,7 @@ Sou um engenheiro de software especializado em desenvolvimento backend com Java.
 
 ## Habilidades
 
-- **Linguagens de Programação:** Java, SQL, JavaScript
+- **Linguagens de Programação:** Java,Kotlin, SQL, JavaScript/TS
 - **Frameworks:** Spring Boot, Hibernate, JPA
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 - **Ferramentas:** Git, Docker, Maven, Jenkins
