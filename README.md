@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustavo! 👋
+# Olá, eu sou Gustavo! 👋
 
 ## Sobre mim
 
@@ -11,7 +11,6 @@ Sou um engenheiro de software especializado em desenvolvimento backend com Java.
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 - **Ferramentas:** Git, Docker, Maven, Jenkins
 - **Metodologias:** Agile, Scrum, TDD
-- 
 ## Conecte-se comigo
 
 - [LinkedIn](https://www.linkedin.com/in/gustavo-pavao-6a3513325/)
