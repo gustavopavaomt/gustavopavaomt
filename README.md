@@ -64,37 +64,6 @@ public class Gustavo implements SoftwareEngineer {
 
 <br>
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gustavopavaomt&show_icons=true&count_private=true&hide_border=true&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&bg_color=0d1117&ring_color=ff6b6b" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopavaomt&layout=compact&hide_border=true&title_color=ff6b6b&text_color=ff6b6b&bg_color=0d1117&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavopavaomt&hide_border=true&background=0D1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavopavaomt&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavopavaomt&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</p>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gustavopavaomt/gustavopavaomt/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> 💡 Essa animação é gerada automaticamente. Se ainda não aparecer no seu perfil, veja o passo a passo logo abaixo em **"Como ativar a snake animation"**.
-
-<br>
-
 ## 📫 Contato
 
 <p align="center">
